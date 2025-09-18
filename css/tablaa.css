@@ -1,0 +1,20 @@
+body{
+background-image: url(file:///C:/Users/ALUMNO-ETIA/Downloads/paisaje.jpg);
+background-repeat: no-repeat;
+font-size: larger;
+color: white;
+}
+h1{
+color:
+chartreuse;
+font-family: Arial;
+}
+table{
+border: 2;
+column-rule-color:
+blue;
+border-right: yellow;
+color: blueviolet;
+background-color:
+cyan;
+}
